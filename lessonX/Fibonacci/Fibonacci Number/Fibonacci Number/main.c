@@ -30,3 +30,8 @@ int fibonacci(int n)
     else
         return fibonacci(n-1)+fibonacci(n-2);
 }
+
+/*
+漸化式:f(1)=1 f(2)=1 f(n)=f(n-2)+f(n-1)
+n=3,4,...
+*/

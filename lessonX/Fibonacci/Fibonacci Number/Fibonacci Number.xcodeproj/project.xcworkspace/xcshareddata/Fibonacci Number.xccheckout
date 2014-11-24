@@ -14,11 +14,11 @@
 		<string>https://github.com/umblr/C.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>lessonX/Fibonacci Number/Fibonacci Number.xcodeproj</string>
+	<string>lessonX/Fibonacci/Fibonacci Number/Fibonacci Number.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FBB93D1574A40B99F876323D88E23657C7C84DEE</key>
-		<string>../../../..</string>
+		<string>../../../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/umblr/C.git</string>
