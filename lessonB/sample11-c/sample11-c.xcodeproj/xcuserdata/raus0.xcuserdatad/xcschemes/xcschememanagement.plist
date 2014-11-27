@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Xorshift.xcscheme</key>
+		<key>sample11-c.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>E9EBF4A81A2718A00050EE2E</key>
+		<key>E9EBF4BB1A272EC30050EE2E</key>
 		<dict>
 			<key>primary</key>
 			<true/>

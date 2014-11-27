@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E91242981A235BF9004B8EAE"
-               BuildableName = "Fibonacci Number"
-               BlueprintName = "Fibonacci Number"
-               ReferencedContainer = "container:Fibonacci Number.xcodeproj">
+               BlueprintIdentifier = "E9EBF4BB1A272EC30050EE2E"
+               BuildableName = "sample11-c"
+               BlueprintName = "sample11-c"
+               ReferencedContainer = "container:sample11-c.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E91242981A235BF9004B8EAE"
-            BuildableName = "Fibonacci Number"
-            BlueprintName = "Fibonacci Number"
-            ReferencedContainer = "container:Fibonacci Number.xcodeproj">
+            BlueprintIdentifier = "E9EBF4BB1A272EC30050EE2E"
+            BuildableName = "sample11-c"
+            BlueprintName = "sample11-c"
+            ReferencedContainer = "container:sample11-c.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E91242981A235BF9004B8EAE"
-            BuildableName = "Fibonacci Number"
-            BlueprintName = "Fibonacci Number"
-            ReferencedContainer = "container:Fibonacci Number.xcodeproj">
+            BlueprintIdentifier = "E9EBF4BB1A272EC30050EE2E"
+            BuildableName = "sample11-c"
+            BlueprintName = "sample11-c"
+            ReferencedContainer = "container:sample11-c.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E91242981A235BF9004B8EAE"
-            BuildableName = "Fibonacci Number"
-            BlueprintName = "Fibonacci Number"
-            ReferencedContainer = "container:Fibonacci Number.xcodeproj">
+            BlueprintIdentifier = "E9EBF4BB1A272EC30050EE2E"
+            BuildableName = "sample11-c"
+            BlueprintName = "sample11-c"
+            ReferencedContainer = "container:sample11-c.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

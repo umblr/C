@@ -2,7 +2,7 @@
 //  main.c
 //  Xorshift
 //
-//  Created by UMBLR on 2014/11/26.
+//  Created by UMBLR on 2014/11/27.
 //  Copyright (c) 2014年 raus0. All rights reserved.
 //
 
@@ -21,9 +21,18 @@ unsigned int xor128(void){
 }
 
 int main(void){
-    int i;
-    for(i=0;i<20;i++)
-        printf("%d ",xor128()%100+1);
+    unsigned i;
+    
+    int count,limit;
+    
+    printf("出力する個数を入力:");
+    scanf("%d",&count);
+    
+    printf("擬似乱数の最大値を入力:");
+    scanf("%d",&limit);
+    
+    for(i=0;i<count;i++)
+        printf("%d ",xor128()%limit+1);
     printf("\n");
     return 0;
 }

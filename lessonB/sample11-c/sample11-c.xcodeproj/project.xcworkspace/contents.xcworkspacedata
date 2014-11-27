@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Fibonacci Number.xcodeproj">
+      location = "self:sample11-c.xcodeproj">
    </FileRef>
 </Workspace>

@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E9EBF4A81A2718A00050EE2E"
-               BuildableName = "Xorshift"
-               BlueprintName = "Xorshift"
-               ReferencedContainer = "container:Xorshift.xcodeproj">
+               BlueprintIdentifier = "E9EBF4CE1A2730430050EE2E"
+               BuildableName = "sample11-d"
+               BlueprintName = "sample11-d"
+               ReferencedContainer = "container:sample11-d.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9EBF4A81A2718A00050EE2E"
-            BuildableName = "Xorshift"
-            BlueprintName = "Xorshift"
-            ReferencedContainer = "container:Xorshift.xcodeproj">
+            BlueprintIdentifier = "E9EBF4CE1A2730430050EE2E"
+            BuildableName = "sample11-d"
+            BlueprintName = "sample11-d"
+            ReferencedContainer = "container:sample11-d.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -51,10 +51,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9EBF4A81A2718A00050EE2E"
-            BuildableName = "Xorshift"
-            BlueprintName = "Xorshift"
-            ReferencedContainer = "container:Xorshift.xcodeproj">
+            BlueprintIdentifier = "E9EBF4CE1A2730430050EE2E"
+            BuildableName = "sample11-d"
+            BlueprintName = "sample11-d"
+            ReferencedContainer = "container:sample11-d.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -69,10 +69,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E9EBF4A81A2718A00050EE2E"
-            BuildableName = "Xorshift"
-            BlueprintName = "Xorshift"
-            ReferencedContainer = "container:Xorshift.xcodeproj">
+            BlueprintIdentifier = "E9EBF4CE1A2730430050EE2E"
+            BuildableName = "sample11-d"
+            BlueprintName = "sample11-d"
+            ReferencedContainer = "container:sample11-d.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
