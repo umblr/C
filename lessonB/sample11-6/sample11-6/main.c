@@ -16,8 +16,10 @@ typedef struct car
 
 int main(void)
 {
-    printf("int型:%dbyte\n",sizeof(int));
+    printf("int型のサイズは%ldバイトです\n",sizeof(int));
+    printf("double型のサイズは%ldバイトです\n",sizeof(double));
+    printf("構造体struct car型のサイズは%ldバイトです\n",sizeof(car));
+    printf("構造体struct car型へのポインタのサイズは%ldバイトです\n",sizeof(car*));
     
-    
-    
+    return 0;
 }
