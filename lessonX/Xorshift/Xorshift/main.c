@@ -22,17 +22,16 @@ unsigned int xor128(void){
 
 int main(void){
     unsigned i;
-    
     int count,limit;
     
     printf("出力する個数を入力:");
     scanf("%d",&count);
     
     printf("擬似乱数の最大値を入力:");
-    scanf("%d",&limit);
+    scanf("%d",&limit);limit++;
     
     for(i=0;i<count;i++)
-        printf("%d ",xor128()%limit+1);
+        printf("%d ",xor128()%limit);
     printf("\n");
     return 0;
 }
