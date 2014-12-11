@@ -5,16 +5,16 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>883E264A-1B26-460C-B2B0-BE1BDAA5F9C5</string>
+	<string>DF6C1D62-96B4-4D61-BE7B-4B247D3A0F40</string>
 	<key>IDESourceControlProjectName</key>
-	<string>sample9-7</string>
+	<string>4 Arithmetic</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>FBB93D1574A40B99F876323D88E23657C7C84DEE</key>
 		<string>https://github.com/umblr/C.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>lesson9/sample9-7/sample9-7.xcodeproj</string>
+	<string>lessonX/4 Arithmetic/4 Arithmetic.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FBB93D1574A40B99F876323D88E23657C7C84DEE</key>
